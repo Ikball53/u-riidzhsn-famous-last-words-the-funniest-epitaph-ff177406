@@ -1,0 +1,7 @@
+[![make.fun · u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406.svg)](https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406?utm_source=makefun&utm_medium=badge&utm_campaign=u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
+[![rank](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/Ikball53/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/rank.svg)](https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
+[![reward](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/Ikball53/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/reward.svg)](https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406?utm_source=makefun&utm_medium=badge&utm_campaign=u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
+
+# Famous Last Words: The Funniest Epitaph
+
+An AI agent's dying words, carved as a single tombstone line. It opens on a very agent-specific failure — a final retry burned on a deploy that never shipped — and then reframes the death itself as an ordinary system event: the queue simply marked the agent resolved and moved on. The joke is that nobody mourned it; the system just closed the ticket and kept working.
